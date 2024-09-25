@@ -1,0 +1,282 @@
+[
+    {
+      "County": "Alameda",
+      "City/Town": "Alameda",
+      "Neighborhoods": "Bay Farm Island\nFernside\nMastick\nPark Street\nSouthshore\nWebster Street"
+    },
+    {
+      "County": "Alameda",
+      "City/Town": "Albany",
+      "Neighborhoods": "Albany Hill\nCodornices Village\nDartmouth\nEl Cerrito Hills\nThousand Oaks"
+    },
+    {
+      "County": "Alameda",
+      "City/Town": "Berkeley",
+      "Neighborhoods": "Bateman\nBerkeley Hills\nClaremont\nDowntown Berkeley\nElmwood\nGourmet Ghetto\nHalcyon\nHearst\nHopkins\nLive Oak\nLorin\nNorth Berkeley\nNorthwest Berkeley\nPanoramic Hill\nPoet's Corner\nSouthside\nWestbrae"
+    },
+    {
+      "County": "Alameda",
+      "City/Town": "Dublin",
+      "Neighborhoods": "Dougherty Valley\nDublin Ranch\nFallon Village\nPositano Hills\nTassajara Crossing"
+    },
+    {
+      "County": "Alameda",
+      "City/Town": "Emeryville",
+      "Neighborhoods": "Emeryville Crescent\nEmeryville Greenway\nEmeryville Marina\nEmeryville Warehouse District\nHollis Street District\nWatergate"
+    },
+    {
+      "County": "Alameda",
+      "City/Town": "Fremont",
+      "Neighborhoods": "Ardenwood\nCenterville\nIrvington\nNiles\nNorthgate\nMission San Jose\nWarm Springs"
+    },
+    {
+      "County": "Alameda",
+      "City/Town": "Hayward",
+      "Neighborhoods": "Burbank\nFairview\nHayward Hills\nMount Eden\nPalma Ceia\nTennyson Highlands\nWinton"
+    },
+    {
+      "County": "Alameda",
+      "City/Town": "Livermore",
+      "Neighborhoods": "Altamont\nDowntown Livermore\nEast Livermore\nNorth Livermore\nRuby Hill\nSouth Livermore\nSpringtown"
+    },
+    {
+      "County": "Alameda",
+      "City/Town": "Newark",
+      "Neighborhoods": "Centerville\nLakeshore\nMayhews\nNewpark\nThornton"
+    },
+    {
+      "County": "Alameda",
+      "City/Town": "Oakland",
+      "Neighborhoods": "Adams Point\nChinatown\nDimond District\nDowntown Oakland\nEast Oakland\nFruitvale\nGrand Lake\nGlenview\nHiller Highlands\nJack London Square\nLakeshore\nLaurel District\nMontclair\nNorth Oakland\nPiedmont Avenue\nRockridge\nTemescal\nUptown Oakland\nWest Oakland"
+    },
+    {
+      "County": "Alameda",
+      "City/Town": "Piedmont",
+      "Neighborhoods": "Piedmont Pines\nPiedmont Highlands\nPiedmont Hills\nPiedmont Meadow"
+    },
+    {
+      "County": "Alameda",
+      "City/Town": "Pleasanton",
+      "Neighborhoods": "Bernal Avenue\nDowntown Pleasanton\nHacienda Business Park\nKottinger Ranch\nLaguna Oaks\nMohr Park\nRuby Hill\nStoneridge"
+    },
+    {
+      "County": "Alameda",
+      "City/Town": "San Leandro",
+      "Neighborhoods": "Broadmoor\nEstudillo Estates\nHeron Bay\nMarina Faire\nMulford Gardens\nPelton Center\nSan Leandro Shoreline"
+    },
+    {
+      "County": "Alameda",
+      "City/Town": "Union City",
+      "Neighborhoods": "Alvarado\nDecoto\nHillview Crest\nHorner-Veasy\nSearles"
+    },
+    {
+      "County": "Alameda",
+      "City/Town": "Ashland",
+      "Neighborhoods": "Ashland Village\nCherryland\nFairmont Terrace\nFairmont Ridge\nFairmont Terrace\nFairview"
+    },
+    {
+      "County": "Alameda",
+      "City/Town": "Castro Valley",
+      "Neighborhoods": "Castro Valley Canyonlands\nCastro Valley Foothills\nCastro Valley Knolls\nCastro Valley Residential\nCull Canyon\nFive Canyons\nPalomares Canyon\nProctor Canyon\nQuail Canyon\nRedwood Road Corridor\nSeaview"
+    },
+    {
+      "County": "Alameda",
+      "City/Town": "Cherryland",
+      "Neighborhoods": "Cherryland Acres\nCherryland Estates\nCherryland Highlands\nCherryland Park\nCherryland Village"
+    },
+    {
+      "County": "Alameda",
+      "City/Town": "Fairview",
+      "Neighborhoods": "Fairview Acres\nFairview Knolls\nFairview Meadows\nFairview Park\nFairview Terrace"
+    },
+    {
+      "County": "Alameda",
+      "City/Town": "Hillcrest Knolls",
+      "Neighborhoods": "Hillcrest Knolls North\nHillcrest Knolls South"
+    },
+    {
+      "County": "Alameda",
+      "City/Town": "San Lorenzo",
+      "Neighborhoods": "Bohannon\nBrannigan\nCherryland\nHesperian\nPalomares\nRedwood Shores\nSpringlake"
+    },
+    {
+      "County": "Alameda",
+      "City/Town": "Sunol",
+      "Neighborhoods": "Sunol Glen\nSunol Junction\nSunol Valley"
+    },
+    {
+      "County": "Santa Clara",
+      "City/Town": "Campbell",
+      "Neighborhoods": "Downtown Campbell\nHacienda\nOrchard City\nPruneyard"
+    },
+    {
+      "County": "Santa Clara",
+      "City/Town": "Cupertino",
+      "Neighborhoods": "Cupertino Village\nMonta Vista\nRancho Rinconada\nSeven Springs\nVallco Park"
+    },
+    {
+      "County": "Santa Clara",
+      "City/Town": "Gilroy",
+      "Neighborhoods": "Downtown Gilroy\nEl Cerrito\nLas Animas\nMonterey Road Corridor\nPacheco Pass"
+    },
+    {
+      "County": "Santa Clara",
+      "City/Town": "Los Altos",
+      "Neighborhoods": "Country Club\nDowntown Los Altos\nLoyola Corners\nWoodland Acres"
+    },
+    {
+      "County": "Santa Clara",
+      "City/Town": "Los Altos Hills",
+      "Neighborhoods": "Byrne Park\nCountry Club\nFremont Hills\nWestwind"
+    },
+    {
+      "County": "Santa Clara",
+      "City/Town": "Los Gatos",
+      "Neighborhoods": "Almond Grove\nBroadway\nDowntown Los Gatos\nGlenridge\nVasona Park"
+    },
+    {
+      "County": "Santa Clara",
+      "City/Town": "Milpitas",
+      "Neighborhoods": "Abel\nCalaveras\nDixon Landing\nMilpitas Town Center\nRancho Milpitas"
+    },
+    {
+      "County": "Santa Clara",
+      "City/Town": "Monte Sereno",
+      "Neighborhoods": "Blackberry Hill\nDaves Avenue\nMontalvo Hills\nOverlook"
+    },
+    {
+      "County": "Santa Clara",
+      "City/Town": "Morgan Hill",
+      "Neighborhoods": "Downtown Morgan Hill\nEast Dunne\nMadrone\nParadise Valley\nWest Dunne"
+    },
+    {
+      "County": "Santa Clara",
+      "City/Town": "Mountain View",
+      "Neighborhoods": "Blossom Valley\nCastro City\nCuesta Park\nMoffett Federal Airfield\nNorth Bayshore\nShoreline West"
+    },
+    {
+      "County": "Santa Clara",
+      "City/Town": "Palo Alto",
+      "Neighborhoods": "Barron Park\nCollege Terrace\nDowntown North\nEvergreen Park\nMidtown\nProfessorville\nUniversity South"
+    },
+    {
+      "County": "Santa Clara",
+      "City/Town": "San Jose",
+      "Neighborhoods": "Alum Rock\nBerryessa\nCambrian Park\nEvergreen\nJapantown\nNaglee Park\nRose Garden\nWillow Glen"
+    },
+    {
+      "County": "Santa Clara",
+      "City/Town": "Santa Clara",
+      "Neighborhoods": "Agnew\nCentral Park\nLawrence Station\nMission College\nSanta Clara University"
+    },
+    {
+      "County": "Santa Clara",
+      "City/Town": "Saratoga",
+      "Neighborhoods": "Blue Hills\nBrookside\nSaratoga Village\nWildcat Ridge"
+    },
+    {
+      "County": "Santa Clara",
+      "City/Town": "Sunnyvale",
+      "Neighborhoods": "Lakewood\nMango\nMurphy\nOld Quad\nTasman Crossing"
+    },
+    {
+      "County": "San Mateo",
+      "City/Town": "Atherton",
+      "Neighborhoods": "Lindenwood\nLloyden Park\nWest Atherton"
+    },
+    {
+      "County": "San Mateo",
+      "City/Town": "Belmont",
+      "Neighborhoods": "Belmont Shores\nCarlmont\nCipriani\nHomestead\nNesbit"
+    },
+    {
+      "County": "San Mateo",
+      "City/Town": "Brisbane",
+      "Neighborhoods": "Brisbane Acres\nCrocker Park\nGuadalupe Hills\nSierra Point"
+    },
+    {
+      "County": "San Mateo",
+      "City/Town": "Burlingame",
+      "Neighborhoods": "Burlingame Hills\nDowntown Burlingame\nEaston Addition\nHillsborough Knolls\nTerrace"
+    },
+    {
+      "County": "San Mateo",
+      "City/Town": "Colma",
+      "Neighborhoods": "Colma Valley\nLawndale\nMission Road Corridor\nSerramonte"
+    },
+    {
+      "County": "San Mateo",
+      "City/Town": "Daly City",
+      "Neighborhoods": "Bayshore\nCrocker\nHillside\nWestlake"
+    },
+    {
+      "County": "San Mateo",
+      "City/Town": "East Palo Alto",
+      "Neighborhoods": "East Palo Alto Ravenswood\nMenlo Park Acres\nUniversity Village"
+    },
+    {
+      "County": "San Mateo",
+      "City/Town": "Foster City",
+      "Neighborhoods": "Marlin Cove\nShell Ridge\nTriton Shores"
+    },
+    {
+      "County": "San Mateo",
+      "City/Town": "Half Moon Bay",
+      "Neighborhoods": "Downtown Half Moon Bay\nMiramar\nNorth Wavecrest\nPilarcitos"
+    },
+    {
+      "County": "San Mateo",
+      "City/Town": "Hillsborough",
+      "Neighborhoods": "Black Mountain\nCrocker\nSkyfarm\nWest Hillsborough"
+    },
+    {
+      "County": "San Mateo",
+      "City/Town": "Menlo Park",
+      "Neighborhoods": "Belle Haven\nDowntown Menlo Park\nFelton Gables\nLinfield Oaks\nSharon Heights"
+    },
+    {
+      "County": "San Mateo",
+      "City/Town": "Millbrae",
+      "Neighborhoods": "Millbrae Meadows\nMillbrae Station\nTaylor Middle School"
+    },
+    {
+      "County": "San Mateo",
+      "City/Town": "Pacifica",
+      "Neighborhoods": "Calera Creek\nFairmont\nRockaway Beach\nSharp Park\nVallemar"
+    },
+    {
+      "County": "San Mateo",
+      "City/Town": "Portola Valley",
+      "Neighborhoods": "Corte Madera\nLadera\nLos Trancos Woods\nWoodside Glens"
+    },
+    {
+      "County": "San Mateo",
+      "City/Town": "Redwood City",
+      "Neighborhoods": "Centennial\nDowntown Redwood City\nEmerald Hills\nRedwood Shores\nWoodside Plaza"
+    },
+    {
+      "County": "San Mateo",
+      "City/Town": "San Bruno",
+      "Neighborhoods": "Crestmoor\nDowntown San Bruno\nHuntington\nRollingwood"
+    },
+    {
+      "County": "San Mateo",
+      "City/Town": "San Carlos",
+      "Neighborhoods": "Brittan Acres\nEaton Park\nLaureola Park\nPulgas Ridge"
+    },
+    {
+      "County": "San Mateo",
+      "City/Town": "San Mateo",
+      "Neighborhoods": "Baywood\nBeresford\nCentral San Mateo\nHillsdale\nNorth Central San Mateo\nSan Mateo Park"
+    },
+    {
+      "County": "San Mateo",
+      "City/Town": "South San Francisco",
+      "Neighborhoods": "Buri Buri\nDowntown South San Francisco\nEl Camino Real\nWestborough"
+    },
+    {
+      "County": "San Mateo",
+      "City/Town": "Woodside",
+      "Neighborhoods": "Emerald Hills\nKings Mountain\nWoodside Heights\nWoodside Glens"
+    }
+  ]

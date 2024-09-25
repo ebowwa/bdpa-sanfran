@@ -1,0 +1,38 @@
+{
+  "companyName": "Goldson's Landscaping",
+  "companyDescription": "Specializing in concrete driveways, patios, and walkways.",
+  "phone": "1-510-999-9999",
+  "email": "info@goldsonslandscaping.com",
+  "address": "1234 Elm Street, San Leandro",
+  "companyLinks": [
+    { "label": "Home", "href": "/" },
+    { "label": "About Us", "href": "/about" },
+    { "label": "Why Goldson?", "href": "/goldson-promise" },
+    { "label": "Our Services", "href": "/services" },
+    { "label": "Portfolio", "href": "/portfolio" },
+    { "label": "Testimonials", "href": "/testimonials" },
+    { "label": "Blog", "href": "/blog" },
+    { "label": "Careers", "href": "/careers" },
+    { "label": "Privacy Policy", "href": "/privacy" }
+  ],
+  "plansAndPricingLinks": [
+    { "label": "Pricing", "href": "/pricing" },
+    { "label": "Financing Options", "href": "/financing" }
+  ],
+  "customerSupportLinks": [
+    { "label": "Contact Us", "href": "/contact" },
+    { "label": "FAQs", "href": "/faq" },
+    { "label": "Submit a Ticket", "href": "/support" },
+    { "label": "Live Chat", "href": "/chat" }
+  ],
+  "communityLinks": [
+    { "label": "Service Areas", "href": "/service-areas" },
+    { "label": "Industry Associations", "href": "/associations" },
+    { "label": "Community Involvement", "href": "/community" }
+  ],
+  "helpLinks": [
+    { "label": "Installation Guides", "href": "/guides" },
+    { "label": "Maintenance Tips", "href": "/maintenance" },
+    { "label": "DIY Resources", "href": "/diy" }
+  ]
+}
