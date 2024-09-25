@@ -2,12 +2,12 @@ import React from 'react';
 import { useForm, SubmitHandler } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { z } from 'zod';
-import { createClient } from '@/utils/supabase/client';
+// import { createClient } from '@/utils/supabase/client'; // Commented out the Supabase client
 import Link from 'next/link';
 import { Alert, AlertDescription, AlertTitle } from '@/components/ui/alert';
 import { Button } from '@/components/ui/button';
 import { Textarea } from '@/components/ui/textarea';
-import { Database, Tables, TablesInsert } from '../../../types_db';
+// import { Database, Tables, TablesInsert } from '../../../types_db'; // Commented out database types
 
 const reviewSchema = z.object({
   content: z.string(),
@@ -35,37 +35,40 @@ const ReviewForm: React.FC = () => {
     setSubmitStatus(null);
 
     try {
-      const supabase = createClient();
-      const { data: authData, error: authError } = await supabase.auth.getUser();
+      // const supabase = createClient(); // Commented out Supabase client creation
+      // const { data: authData, error: authError } = await supabase.auth.getUser(); // Commented out authentication
 
-      if (authError) {
-        console.error('Error getting user data:', authError);
-        setSubmitStatus({ type: 'error', message: 'An error occurred while authenticating. Please try again.' });
-        return;
-      }
+      // if (authError) {
+      //   console.error('Error getting user data:', authError);
+      //   setSubmitStatus({ type: 'error', message: 'An error occurred while authenticating. Please try again.' });
+      //   return;
+      // }
 
-      if (authData.user) {
-        const { error } = await supabase
-          .from('customer_testimonials')
-          .insert({
-            content: data.content,
-            rating: data.rating,
-            customer_id: authData.user.id,
-          })
-          .select()
-          .single();
+      // if (authData.user) {
+      //   const { error } = await supabase
+      //     .from('customer_testimonials')
+      //     .insert({
+      //       content: data.content,
+      //       rating: data.rating,
+      //       customer_id: authData.user.id,
+      //     })
+      //     .select()
+      //     .single();
 
-        if (error) {
-          console.error('Error inserting data:', error);
-          setSubmitStatus({ type: 'error', message: error.message });
-        } else {
-          console.log('Review submitted successfully');
-          reset();
-          setSubmitStatus('success');
-        }
-      } else {
-        setIsUserNotLoggedIn(true);
-      }
+      //   if (error) {
+      //     console.error('Error inserting data:', error);
+      //     setSubmitStatus({ type: 'error', message: error.message });
+      //   } else {
+      //     console.log('Review submitted successfully');
+      //     reset();
+      //     setSubmitStatus('success');
+      //   }
+      // } else {
+      //   setIsUserNotLoggedIn(true);
+      // }
+      console.log('Review submitted:', data);
+      reset();
+      setSubmitStatus('success');
     } catch (error) {
       console.error('Error submitting review:', error);
       setSubmitStatus({ type: 'error', message: 'An error occurred while submitting your review. Please try again.' });
