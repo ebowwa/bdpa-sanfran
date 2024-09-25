@@ -1,5 +1,5 @@
 // src/data/serviceAreas.ts
-import serviceAreasData from '../../../public/EastBay.json';
+import serviceAreasData from '../../public/EastBay.json';
 
 /**
  * Defines the structure of a ServiceArea object.

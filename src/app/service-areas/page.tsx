@@ -4,7 +4,7 @@
 
 import Link from "next/link";
 import { useState, Suspense } from "react";
-import { useRouter, useSearchParams } from "next/navigation";
+// import { useRouter, useSearchParams } from "next/navigation";
 import { serviceAreas, ServiceArea } from "@/data/serviceAreas";
 import TallyNavbarv2 from "@/components/sections/landing/TallyNavbarv2";
 import { LandingFooter } from "@/components/sections/landing/landing-footer";
