@@ -3,6 +3,12 @@
 import React, { useState } from 'react';
 import { X, Facebook, Instagram, ChevronDown, Search, Menu } from 'lucide-react';
 
+// Define the types for NavItem props
+interface NavItemProps {
+  text: string;
+  hasSubmenu?: boolean;
+}
+
 const BDPAHomepage = () => {
   const [activeSlide, setActiveSlide] = useState(0);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -70,7 +76,8 @@ const BDPAHomepage = () => {
     </nav>
   );
 
-  const NavItem = ({ text, hasSubmenu = false }) => (
+  // NavItem component with prop types
+  const NavItem: React.FC<NavItemProps> = ({ text, hasSubmenu = false }) => (
     <div className="relative group">
       <span className="cursor-pointer flex items-center">
         {text}
